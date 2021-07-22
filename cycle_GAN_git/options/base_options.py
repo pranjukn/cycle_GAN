@@ -1,6 +1,6 @@
 import argparse
 import os
-os.chdir("/content/drive/MyDrive/BPTI_drone_archive/cycle_GAN_git/")
+# os.chdir("/content/drive/MyDrive/BPTI_drone_archive/cycle_GAN_git/")
 from util import util
 import torch
 import models
