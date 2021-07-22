@@ -21,7 +21,7 @@ import cv2
 import random
 import math
 from collections import OrderedDict
-from google.colab import drive
+# from google.colab import drive
 import sys
 drive.mount('/content/drive')
 
