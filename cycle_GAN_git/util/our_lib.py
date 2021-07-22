@@ -23,7 +23,7 @@ import math
 from collections import OrderedDict
 # from google.colab import drive
 import sys
-drive.mount('/content/drive')
+# drive.mount('/content/drive')
 
 def del_empty_pix(dir_A, dir_B, df):
   for files in os.listdir(dir_A):
