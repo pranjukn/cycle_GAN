@@ -15,7 +15,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
-from google.colab import drive
+# from google.colab import drive
 from PIL import Image
 import cv2
 import random
